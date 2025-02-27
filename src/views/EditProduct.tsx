@@ -1,7 +1,7 @@
 import { Link, Form, useActionData, useLoaderData } from "react-router-dom"
 import { ErrorMessagge } from "../components/ErrorMessagge"
 import { Product } from "../types"
-import { ProductForm } from "../components/productForm"
+import { ProductForm } from "../components/ProductForm"
 
 const availabilityOptions = [
   { name: 'Disponible', value: true},
