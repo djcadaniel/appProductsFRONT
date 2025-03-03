@@ -18,7 +18,7 @@ export default function Products() {
         <h2 className="text-xl sm:text-4xl font-black text-slate-700">Productos</h2>
         <Link 
           to='productos/nuevo'
-          className="w-full sm:w-auto rounded-md bg-[#5499c7] p-3 text-sm font-bold text-white shadow-sm hover:bg-indigo-500 text-center"
+          className="w-full sm:w-auto rounded-md bg-[#5499c7] p-3 text-sm font-bold text-white shadow-sm hover:bg-[#93bfdd] text-center"
         >
           Agregar producto
         </Link>
